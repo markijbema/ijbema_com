@@ -15,11 +15,12 @@ description: "[PLACEHOLDER: A short invitation to get in touch.]"
 <section class="section">
   <div class="wrap narrow">
     <div class="contact-options">
-      <div>
-        <p class="contact-label">Email</p>
-        <p><a class="contact-link" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        <p class="muted">[PLACEHOLDER: Add your preferred email address in _config.yml.]</p>
-      </div>
+      {% if site.email != "" %}
+        <div>
+          <p class="contact-label">Email</p>
+          <p><a class="contact-link" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        </div>
+      {% endif %}
       <div>
         <p class="contact-label">LinkedIn</p>
         <p>{% if site.linkedin_url != "" %}<a class="contact-link" href="{{ site.linkedin_url }}">LinkedIn profile</a>{% else %}<span class="contact-link">[PLACEHOLDER: Your LinkedIn profile]</span>{% endif %}</p>
