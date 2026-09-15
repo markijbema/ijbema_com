@@ -1,8 +1,8 @@
 title: "[PLACEHOLDER: Your Name]"
 description: "[PLACEHOLDER: A concise description of how you help engineering teams improve their development process.]"
-url: ""
-baseurl: ""
-repository: "[PLACEHOLDER: GitHub username/repository]"
+url: "https://markijbema.github.io"
+baseurl: "/ijbema_com"
+repository: "markijbema/ijbema_com"
 email: "your.email@example.com"
 linkedin_url: ""
 
