@@ -21,11 +21,11 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
     <p>[PLACEHOLDER: Add specific, accurate information about your experience. You might mention technical leadership, delivery, platform work, facilitation, or previous consulting engagements.]</p>
 
     <h2>My philosophy</h2>
-    <p>I treat process improvement as an engineering problem: start with evidence, make the smallest useful change, measure the feedback, and adjust. The goal is not to add ceremony. It is to make valuable work easier to start, review, deliver, and maintain.</p>
+    <p>TODO I treat process improvement as an engineering problem: start with evidence, make the smallest useful change, measure the feedback, and adjust. The goal is not to add ceremony. It is to make valuable work easier to start, review, deliver, and maintain.</p>
     <p>[PLACEHOLDER: Add any additional principles that define your approach, such as psychological safety, clear ownership, short feedback loops, or pragmatic automation.]</p>
 
     <h2>Why I do this work</h2>
-    <p>[PLACEHOLDER: Explain what motivates you about helping teams improve their development process and why this work matters to you.]</p>
+    <p>I've always found it very satisfying to be able to help teams reach their full potential. And I noticed that often someone with a fresh perspective can provide a lot of benefits in a few months. </p>
   </div>
 </section>
 
