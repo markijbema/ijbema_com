@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog"
-description: "[PLACEHOLDER: A short description of the topics covered in this blog.]"
+description: "My thoughts on software engineering, AI, etc"
 ---
 
 <section class="page-hero">
