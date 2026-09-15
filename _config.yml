@@ -1,0 +1,29 @@
+title: "[PLACEHOLDER: Your Name]"
+description: "[PLACEHOLDER: A concise description of how you help engineering teams improve their development process.]"
+url: ""
+baseurl: ""
+repository: "[PLACEHOLDER: GitHub username/repository]"
+email: "your.email@example.com"
+linkedin_url: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

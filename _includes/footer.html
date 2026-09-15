@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    <nav class="footer-nav" aria-label="Footer navigation">
+      <a href="mailto:{{ site.email }}">Email</a>
+      {% if site.linkedin_url != "" %}<a href="{{ site.linkedin_url }}">LinkedIn</a>{% endif %}
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+  </div>
+</footer>
