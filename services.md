@@ -6,8 +6,7 @@ description: "[PLACEHOLDER: A short description of the consulting services you o
 
 <section class="page-hero">
   <div class="wrap">
-    <p class="eyebrow">Services</p>
-    <h1>Practical support for stronger engineering teams.</h1>
+    <h1>Services</h1>
     <p class="page-hero-copy">[PLACEHOLDER: Add one or two sentences explaining how these services can be combined or adapted to a team's needs.]</p>
   </div>
 </section>

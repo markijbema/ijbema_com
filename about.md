@@ -6,8 +6,7 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
 
 <section class="page-hero">
   <div class="wrap">
-    <p class="eyebrow">About</p>
-    <h1>Better software starts with a better way of working.</h1>
+    <h1>About</h1>
   </div>
 </section>
 

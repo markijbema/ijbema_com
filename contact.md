@@ -6,8 +6,7 @@ description: "[PLACEHOLDER: A short invitation to get in touch.]"
 
 <section class="page-hero">
   <div class="wrap narrow">
-    <p class="eyebrow">Contact</p>
-    <h1>Let's talk about your team's way of working.</h1>
+    <h1>Contact</h1>
     <p class="page-hero-copy">[PLACEHOLDER: Add a brief note about the kind of conversation that is welcome and what happens after someone gets in touch.]</p>
   </div>
 </section>

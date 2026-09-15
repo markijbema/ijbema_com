@@ -6,8 +6,7 @@ description: "[PLACEHOLDER: A concise description of how you help engineering te
 
 <section class="hero">
   <div class="wrap">
-    <p class="eyebrow">Software consulting for engineering teams</p>
-    <h1>Make development work feel clearer, faster, and more sustainable.</h1>
+    <h1>Software consulting for engineering teams</h1>
     <p class="hero-copy">[PLACEHOLDER: Describe the teams you help and the development-process problems you solve in one or two sentences.]</p>
     <div class="hero-actions">
       <a class="button" href="{{ '/contact/' | relative_url }}">Get in touch</a>

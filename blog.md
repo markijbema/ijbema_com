@@ -6,9 +6,9 @@ description: "[PLACEHOLDER: A short description of the topics covered in this bl
 
 <section class="page-hero">
   <div class="wrap">
-    <p class="eyebrow">Blog</p>
-    <h1>My thoughts on how to do software engineering, how this relates to AI, and how tech and humans interact</h1>
-    <p class="page-hero-copy">We often hear about 10x engineers, and I don't know about that. But there are definitely 10x teams. It's important to take a step back once in a while and evaluate our tech and processes.</p>
+    <h1>Blog</h1>
+    <p class="page-hero-copy">We often hear about 10x engineers, and I don't know about that. But there are definitely 10x teams.
+    It's important to take a step back once in a while and evaluate our tech and processes.</p>
   </div>
 </section>
 

@@ -13,14 +13,10 @@ Install dependencies and start the development server:
 
 ```sh
 bundle install
-bundle exec jekyll serve
-```
-
-Open [http://localhost:4000](http://localhost:4000) to preview the site. To serve it with an empty base URL, use:
-
-```sh
 bundle exec jekyll serve --baseurl=""
 ```
+
+Open [http://localhost:4000](http://localhost:4000) to preview the site. The `baseurl` override is required because production is hosted from the `/ijbema_com` GitHub Pages project path.
 
 ## Publish with GitHub Pages
 
