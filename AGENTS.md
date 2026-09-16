@@ -1,0 +1,46 @@
+# AGENTS.md
+
+## Project
+
+Static Jekyll site for Mark IJbema, a software consultant helping engineering teams improve their development process, including AI tooling adoption.
+
+This is intended for native GitHub Pages project-site hosting:
+
+- URL: `https://markijbema.github.io`
+- Base URL: `/ijbema_com`
+- Repository: `markijbema/ijbema_com`
+
+## Constraints
+
+- Use Jekyll only; no Node build step, Tailwind, JavaScript framework, GitHub Actions build, or custom plugins.
+- Keep pages as Markdown with front matter.
+- Keep shared header/footer/navigation in `_includes/` and layouts in `_layouts/`.
+- Keep styling in `assets/css/style.css` using plain responsive CSS.
+- Use `relative_url` for internal links so the configured GitHub Pages base URL works.
+- Do not invent specific consulting claims, clients, metrics, or experience.
+- Leave `[PLACEHOLDER: ...]` text in place unless the user has provided replacement content.
+
+## Commands
+
+```sh
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve --baseurl=""
+```
+
+The `--baseurl=""` override is only for local preview because production is hosted from `/ijbema_com`.
+
+## Structure
+
+- `_config.yml` — site settings, navigation defaults, base URL
+- `_layouts/` — HTML layouts for pages and posts
+- `_includes/` — shared header and footer
+- `_posts/` — blog posts named `YYYY-MM-DD-title.md`
+- `assets/css/style.css` — site styling
+- `index.md`, `about.md`, `services.md`, `projects.md`, `blog.md`, `contact.md` — main pages
+
+## Notes
+
+- `Gemfile` pins `github-pages` version 232 for GitHub Pages compatibility.
+- `bigdecimal` and `csv` are included for newer Ruby compatibility.
+- Blog posts can be added by dropping a correctly named Markdown file into `_posts/`.
