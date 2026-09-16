@@ -35,11 +35,11 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
     </p>
 
     <h2>What I learned along the way</h2>
-    <p>[PLACEHOLDER: Describe the experiences that shaped your perspective. You might connect technical leadership, delivery, platform work, facilitation, or consulting engagements to what they taught you about effective teams.]</p>
+    <p>Quality stays important, even when you're working with AI. However how we guarantee quality changes. [ ... TODO ]</p>
 
     <h2>How I work today</h2>
-    <p>TODO I treat process improvement as an engineering problem: start with evidence, make the smallest useful change, measure the feedback, and adjust. The goal is not to add ceremony. It is to make valuable work easier to start, review, deliver, and maintain.</p>
-    <p>[PLACEHOLDER: Add any additional principles that define your approach, such as psychological safety, clear ownership, short feedback loops, or pragmatic automation.]</p>
+    <p>In the last year I learned how we can now do work which used to take months in weeks. At the same time I've seen so many people struggle to apply
+    AI efficiently. [ TODO ]</p>
 
     <h2>Why I do this work</h2>
     <p>I've always found it very satisfying to be able to help teams reach their full potential. And I noticed that often someone with a fresh perspective can provide a lot of benefits in a few months. </p>
