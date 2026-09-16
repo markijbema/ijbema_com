@@ -3,7 +3,7 @@ description: "Optimizing software development processes with a no-nonsense pragm
 url: "https://markijbema.github.io"
 baseurl: "/ijbema_com"
 repository: "markijbema/ijbema_com"
-email: ""
+email: "mark@ijbema.com"
 linkedin_url: "https://www.linkedin.com/in/markijbema/"
 
 markdown: kramdown

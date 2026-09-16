@@ -23,7 +23,6 @@ description: "[PLACEHOLDER: A short invitation to get in touch.]"
       <div>
         <p class="contact-label">LinkedIn</p>
         <p>{% if site.linkedin_url != "" %}<a class="contact-link" href="{{ site.linkedin_url }}">LinkedIn profile</a>{% else %}<span class="contact-link">[PLACEHOLDER: Your LinkedIn profile]</span>{% endif %}</p>
-        <p class="muted">[PLACEHOLDER: Add your LinkedIn profile URL in _config.yml.]</p>
       </div>
     </div>
     <div class="contact-note">
