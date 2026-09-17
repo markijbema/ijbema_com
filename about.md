@@ -7,8 +7,8 @@ lead: >-
   technology, and I think that the way AI changes our processes make this clearer than ever.
 cta_heading: "What working together looks like"
 cta_copy:
-  "I work embedded in your engineering team, and work with you to improve your process, automation and help  to
-  implement agentic engineering in your organization."
+  "I work embedded in your engineering team to improve your process and automation, and to help implement AI-assisted
+  development in your organization."
 cta_label: "Start a conversation"
 cta_url: "/contact/"
 ---
