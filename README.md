@@ -13,10 +13,10 @@ Install dependencies and start the development server:
 
 ```sh
 bundle install
-bundle exec jekyll serve --baseurl=""
+bundle exec jekyll serve --config _config.yml,_config.dev.yml --livereload
 ```
 
-Open [http://localhost:4000](http://localhost:4000) to preview the site. The `baseurl` override is required because production is hosted from the `/ijbema_com` GitHub Pages project path.
+Open [http://localhost:4000](http://localhost:4000) to preview the site. The development config removes the production `/ijbema_com` base URL, while LiveReload refreshes the browser after a rebuild finishes.
 
 ## Publish with GitHub Pages
 

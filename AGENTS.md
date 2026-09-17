@@ -25,14 +25,14 @@ This is intended for native GitHub Pages project-site hosting:
 ```sh
 zsh -lic 'bundle install'
 zsh -lic 'bundle exec jekyll build'
-zsh -lic 'bundle exec jekyll serve --baseurl=""'
+zsh -lic 'bundle exec jekyll serve --config _config.yml,_config.dev.yml --livereload'
 ```
 
 Run all Ruby, Bundler, and Jekyll commands through `zsh -lic` from the repository root. The tool shell does not initialize rbenv and otherwise resolves the system `/usr/bin/ruby`; do not invoke `ruby` or `bundle` directly from the non-interactive tool shell.
 
 The project expects Ruby 3.3.4 from `.ruby-version` and Bundler 2.5.11. Verify the active toolchain with `zsh -lic 'rbenv version && ruby -v && bundle -v'`.
 
-The `--baseurl=""` override is only for local preview because production is hosted from `/ijbema_com`.
+The development config clears `baseurl` only for local preview because production is hosted from `/ijbema_com`. LiveReload refreshes the browser after regeneration completes.
 
 ## Structure
 
