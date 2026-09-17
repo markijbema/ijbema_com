@@ -14,3 +14,7 @@ software engineering is changing because of AI. I've seen how software practices
 as common sense don't work anymore, but also how software quality stays important, but that it works in another way <!-- TODO reformulate -->
 
 Quality stays important, even when you're working with AI. However how we guarantee quality changes. <!-- ... TODO -->
+
+Don't let a human do what a script can do
+
+reference the xkcd comic with the table
