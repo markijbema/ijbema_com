@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Software process consulting"
+title: "AI and Software consulting"
 description: "[PLACEHOLDER: A concise description of how you help engineering teams improve their development process.]"
-hero_title: "Software consulting for engineering teams"
+hero_title: "AI and Software consulting for engineering teams"
 hero_copy:
   "[PLACEHOLDER: Describe the teams you help and the development-process problems you solve in one or two sentences.]"
 hero_actions:
