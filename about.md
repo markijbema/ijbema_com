@@ -56,11 +56,11 @@ don't work anymore, but also how software quality stays important, but that it w
 
 Most teams are aware when they have a problem, and mostly know the symptoms, but are often not able to pinpoint the root
 causes. Because of this, my approach is to work embedded in the engineering team for a few weeks before proposing
-changes. This gives me the time to see where the actual bottlenecks and problems are. At the same time, I can already
-help the team by pitching in on the work.
+changes. This gives me the time to see where the bottlenecks and problems are, and where AI can be leveraged. At the
+same time, I can already help the team by pitching in on the work.
 
-Once I have a good feel for the process, the tech stack and the automation, I suggest improvements and where we could
-leverage AI to improve the process, and once we agree we start right away.
+Once I have a clear picture of the process, the tech stack, and the automation, I suggest improvements, including where
+AI could help, and once we agree, we start right away.
 
 ## Why I do this work
 
