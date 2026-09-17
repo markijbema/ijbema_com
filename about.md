@@ -54,8 +54,16 @@ don't work anymore, but also how software quality stays important, but that it w
 
 ## How I work today
 
-In the last year I learned how we can now do work which used to take months in weeks. At the same time I've seen so many
-people struggle to apply AI efficiently. <!-- TODO -->
+I find teams are often very aware that they have a problem, and mostly know the symptoms, but are often not able to
+pinpoint the causes. Because of this my approach is to work embedded in the engineering team for a week weeks before
+proposing changes. That way I get to see where actual bottlenecks and problems are. At the same time I can already help
+the team by adding my productivity.
+
+When I have a good feel for where in the process, the tech stack, the automation we could improve and where we could
+leverage AI to improve the process I discuss the strategy to improve with management, and when we agree start right
+away.
+
+ <!-- TODO improve -->
 
 ## Why I do this work
 
