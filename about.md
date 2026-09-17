@@ -15,10 +15,10 @@ cta_url: "/contact/"
 
 ## How I got here
 
-On the university I obtained a formal background in software engineering and mathematics. I even did my masters thesis
+At university I obtained a formal background in software engineering and mathematics. I even did my masters thesis
 on two computer-verified proofs of a 10 line algorithm. However this isnt practical at scale, and in the professional
-life we use a combination of process, reviews and tests to manage software quality. After joinging the workforce I
-quickely dove into how to achieve quality and software development rpocesses to make sure I could develop high quality
+life we use a combination of process, reviews and tests to manage software quality. After joining the workforce I
+quickly dove into how to achieve quality and software development processes to make sure I could develop high quality
 software.
 
 My focus on improvement helped me change the process and technology of subsequent employers. At Progress I was hired,
@@ -37,7 +37,7 @@ customers what the stability was they were looking for which the 12 week cadence
 alternatives. For instance changing features would require lots of internal communication on their site, so we released
 them between feature toggles, giving them control over when the features were released to their internal users. But on
 the technical side we also needed to improve the build process and brought the build/test time down from 4 hours to 20
-minutus, so we could guarantee a main branch without problems
+minutes, so we could guarantee a main branch without problems
 
 <!--TODO: alternative word for problems? i mean no failing tests-->. The big advantage of this was that we could also
 
@@ -45,9 +45,9 @@ now allign the release cadence with the weekly process.
 
 ### Quality Enables Speed
 
-managing software quality is cgrucial: if your quality gets to low, code gets hard to change, which means declining
+managing software quality is crucial: if your quality gets too low, code gets hard to change, which means declining
 development speed and this hurts the business. I've often seen people put quality against speed/pragmatism, but if you
-want to go fast, you need to have quality. creating software is cheap, maintaining software is where most of the cost
+want to go fast, you need to have quality. Writing software is cheap, maintaining software is where most of the cost
 is.
 
 ### AI Changes how to achieve quality
