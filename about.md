@@ -44,25 +44,25 @@ At Reconcept I helped the backend and frontend software engineers come together 
      the stability was they were looking for which the 12 week cadence gave, and then provided this by alternatives. For instance changing
      features would require lots of internal communication on their site, so we released them between feature toggles, giving them control
      over when the features were released to their internal users. But on the technical side we also needed to improve the build process and
-     brought the build/test time down from 4 hours to 20 minutus, so we could guarantee a main branch without problems [TODO: alternative word for problems? i mean no failing tests].
+     brought the build/test time down from 4 hours to 20 minutus, so we could guarantee a main branch without problems <!--TODO: alternative word for problems? i mean no failing tests-->.
      The big advantage of this was that we could also now allign the release cadence with the weekly process.
   </p><p>
 
 at reconcept
- no longer splitting stories in frontend and backend tasks, but sharing knowledge and [ ... TODO ]
+ no longer splitting stories in frontend and backend tasks, but sharing knowledge and <!-- ... TODO -->
 
 </p><p>
     At Kilo I had the oppurtunity to learn how software engineering is changing because of AI. I've seen how software practices I've learned over the years
-    as common sense don't work anymore, but also how software quality stays important, but that it works in another way [ TODO reformulate ]
+    as common sense don't work anymore, but also how software quality stays important, but that it works in another way <!-- TODO reformulate -->
     At kilo where I wasn't as focussed on the process, but was contracted as an engineer. I took this oppurtunity because I wanted
     to be in the middle of the storm of AI, and see what actually delivered value, and what did not. This did require me to reevaluate a lot of my convictions, but also
     made me more. confident of others.
 </p><p>
-    Quality stays important, even when you're working with AI. However how we guarantee quality changes. [ ... TODO ]
+    Quality stays important, even when you're working with AI. However how we guarantee quality changes. <!-- ... TODO -->
     </p>
     <h2>How I work today</h2>
     <p>In the last year I learned how we can now do work which used to take months in weeks. At the same time I've seen so many people struggle to apply
-    AI efficiently. [ TODO ]</p>
+    AI efficiently. <!-- TODO --></p>
     <h2>Why I do this work</h2>
     <p>I've always found it very satisfying to be able to help teams reach their full potential. And I noticed that often someone with a fresh perspective can provide a lot of benefits in a few months. </p>
   </div>
