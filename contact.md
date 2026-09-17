@@ -1,13 +1,11 @@
 ---
 layout: contact
 title: "Contact"
-description: "[PLACEHOLDER: A short invitation to get in touch.]"
+description: "Send me a mail, and we can get a cup of coffee, and discuss if I can help your organization"
 hero_narrow: true
-hero_copy:
-  "[PLACEHOLDER: Add a brief note about the kind of conversation that is welcome and what happens after someone gets in
-  touch.]"
+hero_copy: "Send me a mail, and we can get a cup of coffee, and discuss if I can help your organization"
 note_heading: "Before you write"
-note_copy:
-  "[PLACEHOLDER: Optionally list the context that helps you respond usefully, such as team size, current challenge,
-  timeline, or whether the work is remote or onsite.]"
+note_copy: >-
+  To have a fruitful conversation, I'd be really interested to hear what the one thing would be that if we could improve
+  that together would make my help make it worthwhile for you
 ---
