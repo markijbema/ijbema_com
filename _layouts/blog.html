@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% include page-hero.html %}
+
+<section class="section">
+  <div class="wrap narrow">
+    <div class="post-list">
+      {% for post in site.posts %}
+        <article class="post-card">
+          <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+          <p class="post-card-link"><a href="{{ post.url | relative_url }}">Read post <span aria-hidden="true">&rarr;</span></a></p>
+        </article>
+      {% else %}
+        <p>No posts yet.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>

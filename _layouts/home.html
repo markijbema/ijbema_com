@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ page.hero_title }}</h1>
+    <p class="hero-copy">{{ page.hero_copy }}</p>
+    <div class="hero-actions">
+      {% for action in page.hero_actions %}
+        <a class="button{% if action.secondary %} button-secondary{% endif %}" href="{{ action.url | relative_url }}">{{ action.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-tinted">
+  <div class="wrap intro-grid">
+    <div>
+      <p class="section-label">{{ page.intro_label }}</p>
+      <h2>{{ page.intro_heading }}</h2>
+    </div>
+    <div>
+      <p>{{ page.intro_copy }}</p>
+      <p><a class="text-link" href="{{ page.intro_url | relative_url }}">{{ page.intro_link }} <span aria-hidden="true">&rarr;</span></a></p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-heading">
+      <p class="section-label">{{ page.services_label }}</p>
+      <h2>{{ page.services_heading }}</h2>
+    </div>
+    <div class="service-list">
+      {% for service in page.services %}
+        <a class="service-row" href="{{ service.url | relative_url }}">
+          <span class="service-number">{{ service.number }}</span>
+          <span>
+            <strong>{{ service.title }}</strong>
+            <small>{{ service.description }}</small>
+          </span>
+          <span class="row-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

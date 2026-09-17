@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% include page-hero.html %}
+
+<section class="section">
+  <div class="wrap projects-list">
+    {% for project in page.projects %}
+      <article class="project-card">
+        <div class="project-card-content">
+          <p class="project-label">{{ project.label }}</p>
+          <h2>{{ project.title }}</h2>
+          <p><strong>Challenge.</strong> {{ project.challenge }}</p>
+          <p><strong>Outcome.</strong> {{ project.outcome }}</p>
+        </div>
+        <p class="project-link">{{ project.link }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</section>

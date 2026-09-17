@@ -1,0 +1,7 @@
+<section class="page-hero">
+  <div class="wrap{% if page.hero_narrow %} narrow{% endif %}">
+    {% if page.hero_label %}<p class="eyebrow">{{ page.hero_label }}</p>{% endif %}
+    <h1>{{ page.hero_title | default: page.title }}</h1>
+    {% if page.hero_copy %}<p class="page-hero-copy">{{ page.hero_copy }}</p>{% endif %}
+  </div>
+</section>

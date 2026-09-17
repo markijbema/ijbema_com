@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% include page-hero.html %}
+
+<section class="section">
+  <div class="wrap narrow">
+    {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    {{ content }}
+  </div>
+</section>
+
+{% if page.cta_heading %}
+  <section class="section section-tinted">
+    <div class="wrap narrow">
+      <h2>{{ page.cta_heading }}</h2>
+      <p>{{ page.cta_copy }}</p>
+      <p><a class="button" href="{{ page.cta_url | relative_url }}">{{ page.cta_label }}</a></p>
+    </div>
+  </section>
+{% endif %}
