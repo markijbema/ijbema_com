@@ -1,0 +1,16 @@
+
+managing software quality is cgrucial: if your quality gets to low, code gets hard to change, which means declining development speed and this hurts the business. I've often seen people put quality against speed/pragmatism, but if you want to go fast, you need to have quality.
+The solution to this is making sure the software is easy to maintain, because creating software is cheap, maintaining software is where most of the cost is.
+I even gave workshops called Code Retreats helping other software engineers hone their code crafthing
+
+At Progress I helped reduce a 12 week release cadence to a 1 week release cadence. To do this I investigated by the customers what
+the stability was they were looking for which the 12 week cadence gave, and then provided this by alternatives. For instance changing
+features would require lots of internal communication on their site, so we released them between feature toggles, giving them control
+over when the features were released to their internal users. But on the technical side we also needed to improve the build process and
+brought the build/test time down from 4 hours to 20 minutus, so we could guarantee a main branch without problems <!--TODO: alternative word for problems? i mean no failing tests-->.
+The big advantage of this was that we could also now allign the release cadence with the weekly process.
+
+software engineering is changing because of AI. I've seen how software practices I've learned over the years
+as common sense don't work anymore, but also how software quality stays important, but that it works in another way <!-- TODO reformulate -->
+
+Quality stays important, even when you're working with AI. However how we guarantee quality changes. <!-- ... TODO -->
