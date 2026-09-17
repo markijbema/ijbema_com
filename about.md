@@ -17,7 +17,7 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
 
     <h2>How I got here</h2>
     <p>
-    On the university I obtained a formal background in software engineering. I even did my masters thesis about two formal proofs of a 10 line algorithm. However this kind of rigour is not practical in the professional world. There we use a combination of process, reviews and tests to guarantee software quality.
+    On the university I obtained a formal background in software engineering . I even did my masters thesis about two formal proofs of a 10 line algorithm. However this kind of rigour is not practical in the professional world. There we use a combination of process, reviews and tests to manage software quality.
 
     Early on I did see how quality affected speed though; if you're quality gets to low, code gets hard to change, and this hurts the business (this is called technical debt, but that term is nowadays used so losely that it's often just an excuse). The solution to this is making sure you craft your software well, make sure it is easy to maintain (creating software is cheap, maintaining software is 90% of the cost). I even gave workshops ( ... [TODO name] ) instilling this careful code crafting.
 
@@ -49,19 +49,3 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
     <p><a class="button" href="{{ '/contact/' | relative_url }}">Start a conversation</a></p>
   </div>
 </section>
-
-
-<!-- 
-
-currently unused text:
-
-
-    I'm Mark, I've been writing software since the nineties, but professionally for 20 year.
-    Whereas I used to think that my interest was in the purely technical I noticed I get really energized by making a team work well.
-    And this is partly technical, as you cannot work well when your tests take 4 hours, or your release proces is manually, but a lot
-    is also about communication and culture. I think this is also why we saw a big surge the last 20 years in coaches and trainers helping teams,
-    mostly under the banner of Agile. But in my opinion that is also to narrow, as the process and the tech are always tightly interwoven when 
-    you're developing software. And I think nothing shows this clearer than how AI is challenging all our existing processes
-
-
--->
