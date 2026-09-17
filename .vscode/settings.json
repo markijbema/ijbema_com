@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 120,
+    "editor.wrappingStrategy": "simple",
+    "editor.formatOnSave": true
+  },
+  "prettier.requireConfig": true
+}
