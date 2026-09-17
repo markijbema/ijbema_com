@@ -32,21 +32,6 @@ In 2025 I was asked to join Kilo, and got to be in the middle of the storm that 
 
 ## What I learned along the way
 
-### AI Changes quality practices, not the importance of it
-
-Quality stays important, even when you're working with AI. However how we guarantee quality changes. software
-engineering is changing because of AI. I've seen how software practices I've learned over the years as common sense
-don't work anymore, but also how software quality stays important, but that it works in another way
-
-<!-- TODO reformulate -->
-
-### Quality Enables Speed
-
-managing software quality is cgrucial: if your quality gets to low, code gets hard to change, which means declining
-development speed and this hurts the business. I've often seen people put quality against speed/pragmatism, but if you
-want to go fast, you need to have quality. creating software is cheap, maintaining software is where most of the cost
-is.
-
 ### Process and technology cannot be separated
 
 At Progress I helped reduce a 12 week release cadence to a 1 week release cadence. To do this I investigated by the
@@ -59,6 +44,21 @@ minutus, so we could guarantee a main branch without problems
 <!--TODO: alternative word for problems? i mean no failing tests-->. The big advantage of this was that we could also
 
 now allign the release cadence with the weekly process.
+
+### Quality Enables Speed
+
+managing software quality is cgrucial: if your quality gets to low, code gets hard to change, which means declining
+development speed and this hurts the business. I've often seen people put quality against speed/pragmatism, but if you
+want to go fast, you need to have quality. creating software is cheap, maintaining software is where most of the cost
+is.
+
+### AI Changes how to achieve quality
+
+Quality stays important, even when you're working with AI. However how we guarantee quality changes. software
+engineering is changing because of AI. I've seen how software practices I've learned over the years as common sense
+don't work anymore, but also how software quality stays important, but that it works in another way
+
+<!-- TODO reformulate -->
 
 ## How I work today
 
