@@ -33,11 +33,11 @@ practices and seeing the impact of AI on the development process.
 ### Process and technology cannot be separated
 
 At Progress I helped reduce a 12 week release cadence to a 1 week release cadence. To achieve this I asked the customers
-what aspect of stability the old cadence guaranteed them. Since the most promiment aspect was that changes to the
-software required lots of internal communication on their side, we introduces feature flags, giving them control over
+what aspect of stability the old cadence guaranteed them. Since the most prominent aspect was that changes to the
+software required lots of internal communication on their side, we introduced feature flags, giving them control over
 when the features were released to their internal users. We also improved the build process and brought the build/test
 time down from 4 hours to 20 minutes, so we could guarantee the main branch was deployable at every moment. Lastly we
-alligned the sprint length and the release cadence.
+aligned the sprint length and the release cadence.
 
 ### Quality Enables Speed
 
