@@ -18,10 +18,10 @@ cta_url: "/contact/"
 ## How I got here
 
 I started from a background in software engineering and mathematics and even did my masters thesis on a
-computer-verified correctness proof of a 10 line algorithm. This methodology is not yet usable outside an academic
+computer-verified correctness proof of a 10-line algorithm. This methodology is not yet usable outside an academic
 setting, and after joining the workforce I quickly learned how to use a combination of process, reviews and tests to
-manage software quality. Instead of just doing the work I always tried to find how we could optimize these processes. At
-Progress I improved the velocity by reducing a 12 week release cycle to a weekly release, by improving the build
+manage software quality. Instead of just doing the work, I always tried to find how we could optimize these processes.
+At Progress I improved the velocity by reducing a 12 week release cycle to a weekly release, by improving the build
 process, introducing feature flags and improving the agile process. At Reconcept I helped the backend and frontend
 software engineers come together as one team, so we had fewer bottlenecks and a more predictable velocity.
 
@@ -35,7 +35,7 @@ practices and seeing the impact of AI on the development process.
 At Progress I helped reduce a 12 week release cadence to a 1 week release cadence. To do this I investigated by the
 customers what the stability was they were looking for which the 12 week cadence gave, and then provided this by
 alternatives. For instance changing features would require lots of internal communication on their side, so we released
-them between feature toggles, giving them control over when the features were released to their internal users. But on
+them behind feature toggles, giving them control over when the features were released to their internal users. But on
 the technical side we also needed to improve the build process and brought the build/test time down from 4 hours to 20
 minutes, so we could guarantee the main branch was deployable at every moment. The big advantage of this was that we
 could also now align the release cadence with the weekly process.
@@ -48,9 +48,9 @@ want to go fast, you need to have quality. Writing software is cheap, maintainin
 
 ### AI Changes how to achieve quality
 
-Quality stays important, even when you're working with AI. However how we guarantee quality changes. software
-engineering is changing because of AI. I've seen how software practices I've learned over the years as common sense
-don't work anymore, but also how software quality stays important, but that it works in another way
+Quality stays important, even when you're working with AI. However, how we manage quality changes. Software engineering
+is changing because of AI. I've seen how software practices I've learned over the years as common sense don't work
+anymore, but also how software quality stays important, but that it works in another way.
 
 ## How I work today
 
