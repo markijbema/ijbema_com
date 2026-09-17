@@ -27,22 +27,14 @@ layout: default
 </section>
 
 <section class="section">
-  <div class="wrap">
-    <div class="section-heading">
-      <p class="section-label">{{ page.services_label }}</p>
-      <h2>{{ page.services_heading }}</h2>
+  <div class="wrap intro-grid">
+    <div>
+      <p class="section-label">{{ page.engagement_label }}</p>
+      <h2>{{ page.engagement_heading }}</h2>
     </div>
-    <div class="service-list">
-      {% for service in page.services %}
-        <a class="service-row" href="{{ service.url | relative_url }}">
-          <span class="service-number">{{ service.number }}</span>
-          <span>
-            <strong>{{ service.title }}</strong>
-            <small>{{ service.description }}</small>
-          </span>
-          <span class="row-arrow" aria-hidden="true">&rarr;</span>
-        </a>
-      {% endfor %}
+    <div>
+      <p>{{ page.engagement_copy }}</p>
+      <p><a class="text-link" href="{{ page.engagement_url | relative_url }}">{{ page.engagement_link }} <span aria-hidden="true">&rarr;</span></a></p>
     </div>
   </div>
 </section>

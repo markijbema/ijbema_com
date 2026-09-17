@@ -23,10 +23,14 @@ This is intended for native GitHub Pages project-site hosting:
 ## Commands
 
 ```sh
-bundle install
-bundle exec jekyll build
-bundle exec jekyll serve --baseurl=""
+zsh -lic 'bundle install'
+zsh -lic 'bundle exec jekyll build'
+zsh -lic 'bundle exec jekyll serve --baseurl=""'
 ```
+
+Run all Ruby, Bundler, and Jekyll commands through `zsh -lic` from the repository root. The tool shell does not initialize rbenv and otherwise resolves the system `/usr/bin/ruby`; do not invoke `ruby` or `bundle` directly from the non-interactive tool shell.
+
+The project expects Ruby 3.3.4 from `.ruby-version` and Bundler 2.5.11. Verify the active toolchain with `zsh -lic 'rbenv version && ruby -v && bundle -v'`.
 
 The `--baseurl=""` override is only for local preview because production is hosted from `/ijbema_com`.
 
@@ -37,7 +41,7 @@ The `--baseurl=""` override is only for local preview because production is host
 - `_includes/` — shared header and footer
 - `_posts/` — blog posts named `YYYY-MM-DD-title.md`
 - `assets/css/style.css` — site styling
-- `index.md`, `about.md`, `services.md`, `projects.md`, `blog.md`, `contact.md` — main pages
+- `index.md`, `about.md`, `blog.md`, `contact.md` — main pages
 
 ## Notes
 
