@@ -7,8 +7,8 @@ lead: >-
   technology, and I think that the way AI changes our processes make this clearer than ever.
 cta_heading: "What working together looks like"
 cta_copy:
-  "[PLACEHOLDER: Describe the tone and shape of a typical engagement without making unsupported claims. For example,
-  explain how you listen, diagnose, prioritize, and leave teams with practical next steps.]"
+  "I work embedded in your engineering team, and work with you to improve your process, automation and help  to
+  implement agentic engineering in your organization."
 cta_label: "Start a conversation"
 cta_url: "/contact/"
 ---
@@ -55,15 +55,13 @@ don't work anymore, but also how software quality stays important, but that it w
 ## How I work today
 
 I find teams are often very aware that they have a problem, and mostly know the symptoms, but are often not able to
-pinpoint the causes. Because of this my approach is to work embedded in the engineering team for a week weeks before
-proposing changes. That way I get to see where actual bottlenecks and problems are. At the same time I can already help
-the team by adding my productivity.
+pinpoint the causes. Because of this, my approach is to work embedded in the engineering team for a few weeks before
+proposing changes. That way I get to see where the actual bottlenecks and problems are. At the same time, I can already
+help the team by pitching in on the work.
 
-When I have a good feel for where in the process, the tech stack, the automation we could improve and where we could
-leverage AI to improve the process I discuss the strategy to improve with management, and when we agree start right
+Once I have a good feel for where in the process, the tech stack, the automation we could improve and where we could
+leverage AI to improve the process, I discuss the strategy to improve with management, and once we agree we start right
 away.
-
- <!-- TODO improve -->
 
 ## Why I do this work
 
