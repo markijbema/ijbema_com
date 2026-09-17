@@ -13,8 +13,6 @@ cta_label: "Start a conversation"
 cta_url: "/contact/"
 ---
 
-{::options smart_quotes="apos,apos,quot,quot" /}
-
 ## How I got here
 
 On the university I obtained a formal background in software engineering and mathematics. I even did my masters thesis
