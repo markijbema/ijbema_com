@@ -27,7 +27,7 @@ In 2025 I was asked to join Kilo, and got to be in the middle of the storm that 
 
 ## What I learned along the way
 
-### AI Changes How to achieve quality, not the importance of it
+### AI Changes  quality practices, not the importance of it
 
 Quality stays important, even when you're working with AI. However how we guarantee quality changes.
 software engineering is changing because of AI. I've seen how software practices I've learned over the years
