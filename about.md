@@ -12,12 +12,8 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
 
 <section class="section">
   <div class="wrap narrow">
-    <p class="lead">I'm Mark, I've been writing software since the nineties, but professionally for 20 year.
-    Whereas I used to think that my interest was in the purely technical I noticed I get really energized by making a team work well.
-    And this is partly technical, as you cannot work well when your tests take 4 hours, or your release proces is manually, but a lot
-    is also about communication and culture. I think this is also why we saw a big surge the last 20 years in coaches and trainers helping teams,
-    mostly under the banner of Agile. But in my opinion that is also to narrow, as the process and the tech are always tightly interwoven when 
-    you're developing software. And I think nothing shows this clearer than how AI is challenging all our existing processes</p>
+    <p class="lead">I believe to improve software development teams we always need to think about the combination of process
+    and tech, and I think that the way AI changes our processes make this clearer than ever.</p>
 
     <h2>How I got here</h2>
     <p>
@@ -53,3 +49,19 @@ description: "[PLACEHOLDER: A short introduction to your background and consulti
     <p><a class="button" href="{{ '/contact/' | relative_url }}">Start a conversation</a></p>
   </div>
 </section>
+
+
+<!-- 
+
+currently unused text:
+
+
+    I'm Mark, I've been writing software since the nineties, but professionally for 20 year.
+    Whereas I used to think that my interest was in the purely technical I noticed I get really energized by making a team work well.
+    And this is partly technical, as you cannot work well when your tests take 4 hours, or your release proces is manually, but a lot
+    is also about communication and culture. I think this is also why we saw a big surge the last 20 years in coaches and trainers helping teams,
+    mostly under the banner of Agile. But in my opinion that is also to narrow, as the process and the tech are always tightly interwoven when 
+    you're developing software. And I think nothing shows this clearer than how AI is challenging all our existing processes
+
+
+-->
