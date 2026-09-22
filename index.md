@@ -1,9 +1,9 @@
 ---
 layout: home
 title: "AI and Software consulting"
-description:
-  By working embedded in a team for a few weeks I can help you fix bottlenecks and improve your process by fixing those,
-  and introducing and improving AI-assisted development
+description: >-
+  I embed in engineering teams to fix bottlenecks, improve development speed, and help adopt AI-assisted development.
+  Typical engagements run three months and result in concrete outcomes.
 hero_title: "AI and Software consulting for engineering teams"
 hero_copy: >-
   I believe we improve software development teams by always considering the combination of process and technology, and
