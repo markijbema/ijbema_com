@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Blogpost"
-description: "This is a blogpost, just so I have a post"
+title: "Ship First, Improve Later"
+description: "On shipping early and iterating in public"
 ---
 
 I used to think it was important to refine everything until perfection. Or if not perfection, at least my personal
